@@ -21,7 +21,13 @@
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a href="https://join.skype.com/invite/e3tnibQ82uhR" target="_blank">{{ sidebar.linkedin }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.skype %}
+    <li class="skype"><i class="fab fa-skype"></i>
+      <a href="{{ sidebar.skype-link }}" target="_blank">{{ sidebar.skype }}</a>
     </li>
     {% endif %}
 
@@ -51,7 +57,7 @@
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
+      <a href="https://ru.stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
     </li>
     {% endif %}
 

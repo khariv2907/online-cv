@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -13,14 +13,16 @@ sidebar:
 
     # Sidebar links
     email: iwan951@gmail.com
-    phone: 099 252 9533
+    phone: +38 (099) 25-29-533
     website: #do not add http://
     linkedin: khariv
+    skype: live:3a4c73aa71786a22
+    skype-link: https://join.skype.com/invite/e3tnibQ82uhR # share link
     github: khariv2907
-    gitlab: khariv2907
+    gitlab:
     bitbucket:
     twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 363997/khariv2907 # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -46,139 +48,160 @@ sidebar:
 
 career-profile:
     title: About
-    summary: |
-     Middle PHP Developer. Over 2.5 years of experience in development and support websites and finding acceptable solutions for different issues of business. I consider myself a programming enthusiast interested in developing skills and able to quickly learn new things. 
+    summary: >
+     Middle PHP Developer. Over 2.5 years of experience in development and support websites, finding acceptable solutions for different issues of business. I consider myself a programming enthusiast interested in developing skills and able to quickly learn new things.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Master's Degree
+      university: Ivano-Frankivsk National Technical University of Oil and Gas
+      time: 2019 - 2020
+    - degree: Bachelor's Degree
+      university: Ivano-Frankivsk National Technical University of Oil and Gas
+      time: 2017 - 2019
+    - degree: Associate Degree
+      university: Ivano-Frankivsk Finance Commercial Cooperative College named after S. Granat
+      time: 2013 - 2017
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Middle PHP Developer
+      time: 11.2019 - Present
+      company: Ukiepro, Ivano-Frankivsk
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        ##### Project #1.
+        Website about high school sports
+
+        ###### Technologies:
+        - YII2 (PHP)
+        - MySQL
+        - Git
+
+        ###### Contributions:
+        - Building RESTful API
+        - Introduction of a new features
+        - Database architecture
+        - Fixing bugs
+        
+        <hr class="project-delimiter">
+        ##### Project #2.
+        Mobile app about high school sports
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - Git
+
+        ###### Contributions:
+        - Fixing bugs
+    - role: Junior Full-Stack (PHP) Developer
+      time: 06.2017 - 10.2019
+      company: Freelance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        ##### Project #1. 
+        Website for a fitness club
+        
+        ###### Technologies:
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - Wordpress
+        - MySQL
+        - jQuery, AJAX
+        - Git
+        - Webpack
+        
+        ###### Contributions:
+        - Optimize web pages loading
+        - Introduction of a new features
+        - Fixing bugs
+        - Installing SSL certificate
+        
+        <hr class="project-delimiter">
+        ##### Project #2. 
+        Online shop specializing on professional trampolines for fitness and video courses
+        
+        ###### Technologies:
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - Laravel (PHP)
+        - MySQL
+        - jQuery, AJAX
+        - Git
+        - Webpack
+        
+        ###### Contributions:
+        - Building from scratch
+        - Optimize web pages loading
+        - Installing SSL certificate
+        - Connect and setting up services (LiqPay, Mailgun)
+        - Database architecture
+        - Server administration
+        
+        <hr class="project-delimiter">
+        ##### Project #3.
+        Online marketplace specializing on handmade products
+        
+        ###### Technologies:
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - Laravel (PHP)
+        - MySQL
+        - jQuery, AJAX
+        - Git
+        - Webpack
+        
+        ###### Contributions:
+        - Optimize web pages loading
+        - Introduction of a new features
+        - Fixing bugs
+        
+        <hr class="project-delimiter">
+        ##### Project #4. 
+        Information website of online fitness courses
+        
+        ###### Technologies:
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - PHP
+        - MySQL
+        - jQuery, AJAX
+        - Git
+        
+        ###### Contributions:
+        - Introduction of a new features
+        - Fixing bugs
+        - Connect and setting up services (PlatformaLP, Yclients, SMS Центр, Interkassa, LiqPay, Mailgun)
+        - Building and finding an acceptable solution to customer problems
+        - Setting up Getcourse service
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+top-skills:
+    title: Top Skills
+      
+    toolset:
+      - name: Laravel
+        level: 80%
+      
+      - name: MySQL
+        level: 80%
+      
+      - name: PHP
+        level: 80%
+      
 skills:
-    title: Skills &amp; Proficiency
+    title: Tools & Technologies
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Git
+        level: 50%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: HTML & Twitter Bootstrap
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: CSS & SASS
+        level: 50%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: JavaScript & jQuery
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: YII2
+        level: 20%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Last updated 18.03.2020
