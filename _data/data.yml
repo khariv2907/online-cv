@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ivan Khariv
-    tagline: PHP Developer
+    tagline: Middle PHP Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -29,6 +29,9 @@ sidebar:
     languages:
       - idiom: English
         level: Intermediate
+
+      - idiom: Spoken English
+        level: Pre-Intermediate
 
       - idiom: Ukraine
         level: Native
@@ -171,6 +174,23 @@ experiences:
         - Building and finding an acceptable solution to customer problems
         - Setting up Getcourse service
 
+        <hr class="project-delimiter">
+        ##### Project #5.
+        Online service to ordering and delivery healthy food
+
+        ###### Technologies:
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - Laravel (PHP)
+        - MySQL
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Building from scratch
+        - Optimize web pages loading
+        - Database architecture
+
 top-skills:
     title: Top Skills
       
@@ -179,10 +199,10 @@ top-skills:
         level: 80%
       
       - name: MySQL
-        level: 80%
+        level: 70%
       
       - name: PHP
-        level: 80%
+        level: 70%
       
 skills:
     title: Tools & Technologies
@@ -192,10 +212,10 @@ skills:
         level: 50%
 
       - name: HTML & Twitter Bootstrap
-        level: 50%
+        level: 40%
 
       - name: CSS & SASS
-        level: 50%
+        level: 40%
 
       - name: JavaScript & jQuery
         level: 50%
