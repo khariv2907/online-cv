@@ -13,16 +13,14 @@
   <div class="skillset">
 
     {% for skill in skills.toolset %}
-    <div class="item">
+    <a href="{{ skill.link }}" target="_blank" class="item">
+      
+      <div class="skill-icon-block">
+        <img class="skill-icon" src="{{ site.baseurl }}/assets/images/{{ skill.icon }}" alt="skill icon" />
+      </div>
+      <span class="skill-title">{{ skill.name }}</span>
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
+    </a><!--//item-->
     {% endfor %}
 
   </div>

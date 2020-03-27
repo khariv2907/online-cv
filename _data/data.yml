@@ -196,32 +196,52 @@ top-skills:
       
     toolset:
       - name: Laravel
-        level: 80%
+        icon: laravel.png
+        link: https://en.wikipedia.org/wiki/Laravel
       
       - name: MySQL
-        level: 70%
+        icon: mysql.png
+        link: https://en.wikipedia.org/wiki/MySQL
       
       - name: PHP
-        level: 70%
+        icon: php.png
+        link: https://en.wikipedia.org/wiki/PHP
       
 skills:
     title: Tools & Technologies
 
     toolset:
       - name: Git
-        level: 50%
+        icon: git.png
+        link: https://en.wikipedia.org/wiki/Git
 
-      - name: HTML & Twitter Bootstrap
-        level: 40%
+      - name: HTML
+        icon: html.png
+        link: https://en.wikipedia.org/wiki/HTML
 
-      - name: CSS & SASS
-        level: 40%
+      - name: CSS
+        icon: css.png
+        link: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 
-      - name: JavaScript & jQuery
-        level: 50%
+      - name: Twitter Bootstrap
+        icon: bootstrap.png
+        link: https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
+
+      - name: SASS
+        icon: sass.png
+        link: https://en.wikipedia.org/wiki/Sass
+
+      - name: JavaScript
+        icon: js.png
+        link: https://en.wikipedia.org/wiki/JavaScript
+
+      - name: jQuery
+        icon: jquery.png
+        link: https://en.wikipedia.org/wiki/JQuery
 
       - name: YII2
-        level: 20%
+        icon: yii.png
+        link: https://en.wikipedia.org/wiki/Yii
 
 footer: >
-    Last updated 18.03.2020
+    Last updated 27.03.2020

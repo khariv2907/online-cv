@@ -10,19 +10,17 @@
     {{ top-skills.title }}
   </h2>
 
-  <div class="skillset">
+  <div class="top-skillset skillset">
 
     {% for top-skill in top-skills.toolset %}
-    <div class="item">
+    <a href="{{ top-skill.link }}" target="_blank" class="item">
 
-      <h3 class="level-title">{{ top-skill.name }}</h3>
+      <div class="skill-icon-block">
+        <img class="skill-icon" src="{{ site.baseurl }}/assets/images/{{ top-skill.icon }}" alt="skill icon" />
+      </div>
+      <span class="skill-title">{{ top-skill.name }}</span>
 
-      <div class="level-bar">
-        <div class="level-bar-inner" data-level="{{ top-skill.level }}">
-        </div>
-      </div><!--//level-bar-->
-
-    </div><!--//item-->
+    </a><!--//item-->
     {% endfor %}
 
   </div>

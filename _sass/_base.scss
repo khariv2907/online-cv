@@ -156,6 +156,8 @@ p {
     background: #fff;
     padding: 60px;
     padding-right: 340px;
+    padding-top: 25px;
+
     .section-title {
         text-transform: uppercase;
         font-size: 20px;
@@ -248,29 +250,63 @@ p {
             margin-bottom: 15px;
         }
     }
+
+    .downlaod-pdf {
+        text-align: right;
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 15px;
+    }
 }
 
 
 .skillset {
+    display: flex;
+    flex-wrap: wrap;
+
     .item {
-        margin-bottom: 15px;
         overflow: hidden;
+
+        flex: 0 0 25%;
+        max-width: 25%;
+        width: 100%;
+        padding: 7px 15px;
+        text-align: center;
+
+        .skill-icon-block {
+            width: 100%;
+            padding: 10px;
+
+            .skill-icon {
+                width: auto;
+                height: 45px;
+                filter: grayscale(1);
+                opacity: .6;
+                transition: opacity .35s;
+            }
+        }
+        
+        .skill-title {
+            color: #97AAC3;
+        }
+
+        &:hover {
+            text-decoration: none;
+
+            .skill-icon {
+                opacity: 1;
+            }
+        }
     }
-    .level-title {
-        font-size: 14px;
-        margin-top: 0;
-        margin-bottom: 12px;
-    }
-    .level-bar {
-        height: 12px;
-        background: $smoky-white;
-    }
-    .level-bar-inner {
-        height: 12px;
-        background: lighten($theme-color, 15%);
-    }
+
 }
 
+.top-skillset {
+    .item {
+        flex: 0 0 33.33%;
+        max-width: 33.33%;
+    }
+}
 
 
 
