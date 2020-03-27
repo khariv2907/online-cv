@@ -282,7 +282,7 @@ p {
                 width: auto;
                 height: 45px;
                 filter: grayscale(1);
-                opacity: .8;
+                opacity: .6;
                 transition: opacity .35s;
             }
         }
@@ -293,7 +293,7 @@ p {
 
         &:hover {
             text-decoration: none;
-            
+
             .skill-icon {
                 opacity: 1;
             }

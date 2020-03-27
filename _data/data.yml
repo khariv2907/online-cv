@@ -197,15 +197,15 @@ top-skills:
     toolset:
       - name: Laravel
         icon: laravel.png
-        link: 
+        link: https://en.wikipedia.org/wiki/Laravel
       
       - name: MySQL
         icon: mysql.png
-        link: 
+        link: https://en.wikipedia.org/wiki/MySQL
       
       - name: PHP
         icon: php.png
-        link: 
+        link: https://en.wikipedia.org/wiki/PHP
       
 skills:
     title: Tools & Technologies
@@ -213,35 +213,35 @@ skills:
     toolset:
       - name: Git
         icon: git.png
-        link: 
+        link: https://en.wikipedia.org/wiki/Git
 
       - name: HTML
         icon: html.png
-        link: 
+        link: https://en.wikipedia.org/wiki/HTML
 
       - name: CSS
         icon: css.png
-        link: 
+        link: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 
       - name: Twitter Bootstrap
         icon: bootstrap.png
-        link: 
+        link: https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)
 
       - name: SASS
         icon: sass.png
-        link:
+        link: https://en.wikipedia.org/wiki/Sass
 
       - name: JavaScript
         icon: js.png
-        link: 
+        link: https://en.wikipedia.org/wiki/JavaScript
 
       - name: jQuery
         icon: jquery.png
-        link: 
+        link: https://en.wikipedia.org/wiki/JQuery
 
       - name: YII2
         icon: yii.png
-        link: 
+        link: https://en.wikipedia.org/wiki/Yii
 
 footer: >
-    Last updated 19.03.2020
+    Last updated 27.03.2020
