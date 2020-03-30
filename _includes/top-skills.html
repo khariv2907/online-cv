@@ -10,13 +10,13 @@
     {{ top-skills.title }}
   </h2>
 
-  <div class="top-skillset skillset">
+  <div class="pdf-fix-skillset top-skillset skillset">
 
     {% for top-skill in top-skills.toolset %}
     <a href="{{ top-skill.link }}" target="_blank" class="item">
 
       <div class="skill-icon-block">
-        <img class="skill-icon" src="{{ site.baseurl }}/assets/images/{{ top-skill.icon }}" alt="skill icon" />
+        <img class="skill-icon" src="assets/images/{{ top-skill.icon }}" alt="skill icon" />
       </div>
       <span class="skill-title">{{ top-skill.name }}</span>
 
