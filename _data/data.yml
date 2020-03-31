@@ -243,5 +243,9 @@ skills:
         icon: yii.png
         link: https://en.wikipedia.org/wiki/Yii
 
+      - name: Docker
+        icon: docker.png
+        link: https://en.wikipedia.org/wiki/Docker_(software)
+
 footer: >
-    Last updated 27.03.2020
+    Last updated 31.03.2020
