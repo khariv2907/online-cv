@@ -37,7 +37,7 @@ sidebar:
         level: Native
 
       - idiom: Russian
-        level: Professional
+        level: Spoken
 
     interests:
       - item: Modern Art
@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: About
     summary: >
-     Middle PHP Developer. Over 2.5 years of experience in development and support websites, finding acceptable solutions for different issues of business. I consider myself a programming enthusiast interested in developing skills and able to quickly learn new things.
+     Middle PHP Developer. Over 3.5 years of experience in development and support websites, finding acceptable solutions for different issues of business. I consider myself a programming enthusiast interested in developing skills and able to quickly learn new things.
 education:
     - degree: Master's Degree
       university: Ivano-Frankivsk National Technical University of Oil and Gas
@@ -60,7 +60,7 @@ education:
     - degree: Bachelor's Degree
       university: Ivano-Frankivsk National Technical University of Oil and Gas
       time: 2017 - 2019
-    - degree: Associate Degree
+    - degree: Associate’s Degree
       university: Ivano-Frankivsk Finance Commercial Cooperative College named after S. Granat
       time: 2013 - 2017
 
@@ -94,6 +94,42 @@ experiences:
 
         ###### Contributions:
         - Fixing bugs
+        
+        <hr class="project-delimiter">
+        ##### Project #3.
+        Website about redemption, delivery, customs clearance of a car from the USA
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5
+        - CSS 3
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Fixing bugs
+        - Introduction of a new features
+
+        <hr class="project-delimiter">
+        ##### Project #4.
+        An online multiplayer bitcoin gambling game
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5 (Twitter Bootstrap 4)
+        - CSS 3 (SASS)
+        - Vue.js
+        - jQuery, AJAX
+        - Git
+        - Webpack
+
+        ###### Contributions:
+        - Introduction of a new features
+        - Database architecture
+        - Fixing bugs
+        - Writing Unit Tests
     - role: Junior Full-Stack (PHP) Developer
       time: 06.2017 - 10.2019
       company: Freelance
@@ -247,5 +283,13 @@ skills:
         icon: docker.png
         link: https://en.wikipedia.org/wiki/Docker_(software)
 
+      - name: Vue.js
+        icon: vuejs.png
+        link: https://en.wikipedia.org/wiki/Vue.js
+
+      - name: PostgreSQL
+        icon: postgresql.png
+        link: https://en.wikipedia.org/wiki/PostgreSQL
+
 footer: >
-    Last updated 31.03.2020
+    Last updated 22.11.2020
