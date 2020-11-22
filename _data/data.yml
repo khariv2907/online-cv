@@ -283,5 +283,13 @@ skills:
         icon: docker.png
         link: https://en.wikipedia.org/wiki/Docker_(software)
 
+      - name: Vue.js
+        icon: vuejs.png
+        link: https://en.wikipedia.org/wiki/Vue.js
+
+      - name: PostgreSQL
+        icon: postgresql.png
+        link: https://en.wikipedia.org/wiki/PostgreSQL
+
 footer: >
-    Last updated 31.03.2020
+    Last updated 22.11.2020
