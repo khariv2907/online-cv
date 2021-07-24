@@ -52,7 +52,7 @@ sidebar:
 career-profile:
     title: About
     summary: >
-     Middle PHP Developer. Over 3.5 years of experience in development and support websites, finding acceptable solutions for different issues of business. I consider myself a programming enthusiast interested in developing skills and able to quickly learn new things.
+     Middle PHP Developer. Over 4 years of experience in development and support websites, finding acceptable solutions for different issues of business. I consider myself a programming enthusiast interested in developing skills and able to quickly learn new things.
 education:
     - degree: Master's Degree
       university: Ivano-Frankivsk National Technical University of Oil and Gas
@@ -66,7 +66,130 @@ education:
 
 experiences:
     - role: Middle PHP Developer
-      time: 11.2019 - Present
+      time: 01.2021 - Present
+      company: bvblogic, Ivano-Frankivsk
+      details: |
+        ##### Project #1.
+        Organization of camps for children
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5
+        - CSS 3
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Upgraded php version
+        - Introduction of a new features
+        - Fixing bugs
+
+        <hr class="project-delimiter">
+        ##### Project #2.
+        Web service for a photo studio
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Introduction of a new features
+        - Fixing bugs
+
+        <hr class="project-delimiter">
+        ##### Project #3.
+        Concrete purchase service
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Introduction of a new features
+        - Fixing bugs
+        - Connect and setting up LiqPay
+        - Database architecture
+
+        <hr class="project-delimiter">
+        ##### Project #4.
+        Technic rental service
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Building from scratch
+        - Connect and setting up LiqPay
+        - Database architecture
+        - Server administration
+
+        <hr class="project-delimiter">
+        ##### Project #5.
+        Service for teaching preschoolers
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - Git
+
+        ###### Contributions:
+        - Building RESTful API
+        - Introduction of a new features
+        - Fixing bugs
+        - Connect and setting up LiqPay
+        - Database architecture
+        - Writing Feature tests
+
+        <hr class="project-delimiter">
+        ##### Project #6.
+        Service for buying a list of doctors, drugs, etc. in the USA
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - MySQL
+        - HTML 5 (Twitter Bootstrap 3)
+        - CSS 3 (SASS)
+        - jQuery, AJAX
+        - Git
+
+        ###### Contributions:
+        - Introduction of a new features
+        - Fixing bugs
+        - Working with large databases
+        - Writing Selenium and Feature tests
+
+        <hr class="project-delimiter">
+
+        ##### Project #7.
+        Online shirt store
+
+        ###### Technologies:
+        - Laravel (PHP)
+        - Aimeos
+        - Inertia.js
+        - MySQL
+        - Git
+
+        ###### Contributions:
+        - Introduction of a new features
+        - Fixing bugs
+        - Writing Feature tests
+    - role: Middle PHP Developer
+      time: 11.2019 - 12.2020
       company: Ukiepro, Ivano-Frankivsk
       details: |
         ##### Project #1.
@@ -129,7 +252,7 @@ experiences:
         - Introduction of a new features
         - Database architecture
         - Fixing bugs
-        - Writing Unit Tests
+        - Writing Unit tests
     - role: Junior Full-Stack (PHP) Developer
       time: 06.2017 - 10.2019
       company: Freelance
@@ -292,4 +415,4 @@ skills:
         link: https://en.wikipedia.org/wiki/PostgreSQL
 
 footer: >
-    Last updated 22.11.2020
+    Last updated 24.07.2021
