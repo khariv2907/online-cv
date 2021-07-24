@@ -1,7 +1,7 @@
 # About
 CV - Khariv Ivan
 
-Last updated 19.03.2020
+Last updated 24.07.2021
 
 [Go to CV](https://khariv2907.github.io/cv/)
 # Usage
