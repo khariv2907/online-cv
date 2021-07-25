@@ -365,11 +365,7 @@ top-skills:
       - name: PHP
         icon: php.png
         link: https://en.wikipedia.org/wiki/PHP
-      
-skills:
-    title: Tools & Technologies
 
-    toolset:
       - name: Git
         icon: git.png
         link: https://en.wikipedia.org/wiki/Git
@@ -398,10 +394,6 @@ skills:
         icon: jquery.png
         link: https://en.wikipedia.org/wiki/JQuery
 
-      - name: YII2
-        icon: yii.png
-        link: https://en.wikipedia.org/wiki/Yii
-
       - name: Docker
         icon: docker.png
         link: https://en.wikipedia.org/wiki/Docker_(software)
@@ -409,10 +401,41 @@ skills:
       - name: Vue.js
         icon: vuejs.png
         link: https://en.wikipedia.org/wiki/Vue.js
+      
+skills:
+    title: Tools & Technologies
+
+    toolset:
+      - name: Lucid Architecture
+        link: https://lucidarch.dev/
+
+      - name: YII2
+        link: https://en.wikipedia.org/wiki/Yii
 
       - name: PostgreSQL
-        icon: postgresql.png
         link: https://en.wikipedia.org/wiki/PostgreSQL
 
+      - name: LiqPay
+        link: https://uk.wikipedia.org/wiki/LiqPay
+
+      - name: Aimeos
+        link: https://aimeos.org/
+
+      - name: Webpack
+        link: https://en.wikipedia.org/wiki/Webpack
+
+      - name: Gulp
+        link: https://en.wikipedia.org/wiki/Gulp.js
+
+      - name: PHPunit
+        link: https://en.wikipedia.org/wiki/PHPUnit
+
+      - name: Selenium
+        link: https://en.wikipedia.org/wiki/Selenium_(software)
+
+      - name: Inertia.js
+        link: https://inertiajs.com/
+      
+
 footer: >
-    Last updated 24.07.2021
+    Last updated 25.07.2021
