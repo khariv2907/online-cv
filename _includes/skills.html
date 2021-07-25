@@ -14,12 +14,7 @@
 
     {% for skill in skills.toolset %}
     <a href="{{ skill.link }}" target="_blank" class="item">
-      
-      <div class="skill-icon-block">
-        <img class="skill-icon" src="assets/images/{{ skill.icon }}" alt="skill icon" />
-      </div>
       <span class="skill-title">{{ skill.name }}</span>
-
     </a><!--//item-->
     {% endfor %}
 
