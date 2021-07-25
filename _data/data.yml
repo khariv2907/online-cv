@@ -436,6 +436,12 @@ skills:
       - name: Inertia.js
         link: https://inertiajs.com/
       
+      - name: RESTful API
+        link: https://en.wikipedia.org/wiki/Representational_state_transfer
+      
+      - name: Redis
+        link: https://en.wikipedia.org/wiki/Redis
+      
 
 footer: >
     Last updated 25.07.2021
